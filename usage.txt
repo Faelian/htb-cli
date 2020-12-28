@@ -1,0 +1,19 @@
+$ htb 10.10.10.17 up/down
+
+$ htb bashed 
+info on the machine
+
+$ htb machines
+
+
+$ htb retired
+list retired machines
+
+$ htb todo
+
+
+$ htb vpn
+by default activate vpn
+
+$ htb vpn up/down
+
